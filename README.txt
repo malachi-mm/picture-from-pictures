@@ -1,6 +1,6 @@
 Hi!
 This application make a big picture from a lot other pictures
-you can see example in the file ('example.jpg') 
+you can see example in the file ('target.jpg') 
 
 
 Before you start use this app you need to do 2 things
